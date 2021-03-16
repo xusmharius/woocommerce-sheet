@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "woocommerce-shee-1615934086475",
+  "private_key_id": "71e4623e78b9f4e062e643e69666a23b0a55d20e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyjSBZm7RexWLr\nF7dMzozwMxfmdRecFj8MuPwhEI3AC82/AOgW8B77YeRn2kzqGeNx1AQhGiFu7CMx\nMuX6c086+qzx9tMwgrZ7S2ope1sROCMH5FPFrAcy1m5B+8ChzcyWvWo5Pe3ZmRpU\n9Sf7S8KtR2nMt9EUnhnfSHo0gOAVWdhWGcNLOTmsoeOOOqmmce0xETWSHLijT1hG\nIjKFOXtfKY9H3wZE8ONu8RdMd78wJ9lEizufnipvYBjgP3gmCXcVODBrXzCnS4cv\nt0X/UNYyw0UPT3YMOZiK2s1biS2Vyybu+be3tM2wEI/pD6Pgd9GLqOKzmm33NMka\nf0+6iif9AgMBAAECggEAAecfaLUQPAd3WEN43i9kwx6PIe6cGDtRmrIbITDK+MrV\nIBAe1soG46Ret30wg8tPsVq27tY8Bmh0ZvyJu8EgRAiAJ57WfZ9t2ZEZLq39b3aK\n+iwgC0hAetDufLwaP5YMT7CoOLephojZBf3nbHYHOz06l9ij71or/CDBdu80qwD+\nPY9c4cjX3epcprHo2aHl+mFdqU0uIj1snzPZqfXFVvZfMesoOSiVP9nK8jMcXWP5\n0DxtT0I4mP0plSlonWPVPL5JoMsBi1/JbLdpKYbvJkzkoy9qa2RXFVGmTOT/aJE3\nVJXbD4kklIcIjZG/6LOpqTowqa24Rmbz0vbJERK+oQKBgQDwftvhKKum2rijy7uX\nb1wAthhVW4v/cNPw3tQ41Rjda+zi5X3pkmBFnSIplDhO6ubyi062KH/ZShXFvc6B\n5WUSTjwCY2WWWqqYD0oaA/8yCKvdx5fbNdtFg/h1pZQqRSBo2InExXRhgqVYe042\nCJGw+fGOKpS3meky6bDNI7UfxQKBgQC+D/BG+7+aSqCfxYmNpO309zT4/27yfBvJ\n0xpXsh1q8TIkqLrp/+xCIYp16s8fqHXROsw2njIcPCfsLQWLMVhlMcTn8M7NvKrn\ngblMhYU7Z+pyZ5YiDiuRaSlhgzad5DRw35kUGvemDdQseTd897w1gIsfzVHdRwKd\nf+mR+7Ly2QKBgHoXfRseoZ4QlgIZsP+dOjDmQQ48bqNcrUwwY78CeCAY5Wb/KOAG\nPre4oRpItBlkaaCilnAluVofoVQFGyyYv6n+a7quqWkeWFLgGDeC5fCJtG7gIDja\na5or+FwJlmGrPFvd6nsp3v6N69EysC8ARK57BWWuOlfHXDtLpkVOpmodAoGACbHo\ncMaAtI8f+GZsKNSD6t39TsJA14+rHzVsf5KvW3goNaSBvFP4qjrpxDARFq1SLTUR\nm6ugJL6QzsRRJxOCTc8nGym2ctov4ZVFbXjWHfykAef0yZHteQJjQP0feRhd8HAH\nb/YcMdU8wHQCd5ZvfE8tSZcAmQf5Qy12LaMoMqkCgYEA2iC6O+eGrxMcmUgMK+82\nhdAXSLF741OuyBn56ihu9KqP0fLJzjeOEAuar3eXnDjtNgu8bCF9EvDPoSIZkW7F\nSvO+Uc1mfJrD7ZefWjaCfCwj+Mis+1nfz4wBdYjBtaoy8lFdH0Jz9jewbP9KnbQc\nKPCWXD/fjsQCW2Eg5f1dzcQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "woocomercesheet@woocommerce-shee-1615934086475.iam.gserviceaccount.com",
+  "client_id": "102904261247071795062",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/woocomercesheet%40woocommerce-shee-1615934086475.iam.gserviceaccount.com"
+}
