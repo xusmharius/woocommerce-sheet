@@ -5,9 +5,12 @@ if (process.env.NODE_ENV !== 'production') {
 //Crear un server:
 const express = require('express')
 
-require('./spreadsheet');
+//require('./spreadsheet');
 
 const app = express();
+
+app.set('views', './src/views');
+app.set('view engine', 'pug')
 
 //rutas
 app.use(require('./routes/google.routes'));

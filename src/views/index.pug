@@ -1,0 +1,15 @@
+doctype html 
+html 
+    head 
+        meta(charset="utf-8")/
+        title DP Bodega
+    body
+        div
+            p
+                a(href="Ordenes") Ordenes
+            h1 Productos stock
+            ul
+                each registro, index in registros
+                    li #{'Id padre: ' + registro.id_padre + ' -> ' + registro.id_variacion}
+
+            hr
