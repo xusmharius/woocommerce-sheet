@@ -1,5 +1,5 @@
 # Credenciales de google sheet
-credenciales.json
+src/json/credenciales.json
 
 # Logs
 logs
