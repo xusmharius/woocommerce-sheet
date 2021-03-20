@@ -1,9 +1,6 @@
-const express = require('express');
-const router = express.Router();
+import mysqlConnection from '../database';
 
-const mysqlConnection = require('../database');
-
-router.get('/', (req, res) => {
+export const getOrdenes = (req, res) => {
     mysqlConnection.query("SELECT `order_id`, `date_created`, `num_items_sold`, `total_sales`,`status` FROM `wp_wc_order_stats` WHERE (`status` LIKE 'wc-completed' OR 'wc-cancelled') AND `customer_id` = ? LIMIT 5", [2], (err, rows, fields) => {
         if (!err) {
             res.json(rows);
@@ -11,7 +8,4 @@ router.get('/', (req, res) => {
             console.log(err);
         }
     })
-})
-
-
-module.exports = router
+}
